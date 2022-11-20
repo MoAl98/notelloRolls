@@ -132,6 +132,7 @@ html::-webkit-scrollbar-thumb{
 }
 /* Product row menu style  */
 section{
+    background-color: #ff0000 ;
     padding: 2rem 7%;
 }
 .heading{
